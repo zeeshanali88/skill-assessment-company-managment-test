@@ -21,8 +21,8 @@ The challenge will contain a few core features most applications have. That incl
 * Let your creativity run wild and add a feature not mentioned above that you think would be useful for the application
 
 ## Developer
-Name: `<your name>` <br/>
-Email: `<your email>`<br/>
+Name: Zeeshan Ali <br/>
+Email: me.zeeshanali88@gmail.com <br/>
 
 ## Instructions (Docker required)
 ### Cloning the repository
